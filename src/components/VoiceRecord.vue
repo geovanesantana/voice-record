@@ -8,7 +8,7 @@
       <div v-html="icons.play"></div>
 
       <template slot="isInitiating">
-        <div v-html="icons.permission"></div>
+        <div v-html="icons.play"></div>
       </template>
 
       <template slot="isRecording">
